@@ -8,7 +8,7 @@ public class Run {
 		System.out.println("2,3일 때 : " + n1);
 		int n2 = s1.solution(100, 2);
 		System.out.println("100, 2일 때 : " + n2);
-					
+		
 	}
 
 }
